@@ -1,0 +1,7 @@
+include ':videoplayerdemo3'
+include ':videoplayerdemo2'
+include ':videoplayerdemo1'
+include ':mediaplayerdemo3'
+include ':mediaplayerdemo2'
+include ':app'
+rootProject.name = "MediaPlayerVideoDemo"
